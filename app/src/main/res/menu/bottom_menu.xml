@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom1Fragment"
+        android:icon="@drawable/baseline_music_note_24"
+        android:title="Music" />
+
+    <item
+        android:id="@+id/bottom2Fragment"
+        android:icon="@drawable/baseline_star_24"
+        android:title="Favourite" />
+
+    <item
+        android:id="@+id/bottom3Fragment"
+        android:icon="@drawable/baseline_library_music_24"
+        android:title="Library" />
+</menu>

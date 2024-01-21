@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NavigationExercice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Song">
+        <item>Ikareta Baby</item>
+        <item>Autumn Leaves</item>
+        <item>Águas de Março</item>
+        <item>I Could Show You How</item>
+        <item>It Never Entered My Mind</item>
+        <item>Neon Kitchen</item>
+        <item>routine</item>
+        <item>Deacon Blues</item>
+        <item>Center</item>
+        <item>End of Small Sanctuary</item>
+        <item>Mayonaise</item>
+        <item>filter</item>
+
+    </string-array>
+    <string-array name="Author">
+        <item>Asian Glow</item>
+        <item>Ryo Fukui</item>
+        <item>Antonio Carlos Jobim, Elis Regina</item>
+        <item>Naked Eyes</item>
+        <item>Miles Davis Quintet</item>
+        <item>Devon Hendrix</item>
+        <item>medhane</item>
+        <item>Steely Dan</item>
+        <item>Asian Glow, Weatherday</item>
+        <item>Akira Yamaoka</item>
+        <item>Smashing Pumpkins</item>
+        <item>Echo</item>
+    </string-array>
+    <string-array name="audioUrl">
+        <item>url_1</item>
+        <item>url_2</item>
+        <!-- Add other URL items as needed -->
+    </string-array>
+</resources>

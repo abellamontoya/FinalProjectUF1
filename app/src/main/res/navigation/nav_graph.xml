@@ -1,0 +1,23 @@
+<!-- Remove entries related to DrawerLayout -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/bottom1Fragment">
+
+    <fragment
+        android:id="@+id/bottom1Fragment"
+        android:name="com.example.navigationexercice.bottom1fragment"
+        android:label="bottom1fragment"
+        tools:layout="@layout/bottom1fragment"/>
+    <fragment
+        android:id="@+id/bottom2Fragment"
+        android:name="com.example.navigationexercice.bottom2fragment"
+        android:label="bottom2fragment"
+        tools:layout="@layout/bottom2fragment"/>
+    <fragment
+        android:id="@+id/bottom3Fragment"
+        android:name="com.example.navigationexercice.bottom3fragment"
+        android:label="bottom3fragment"
+        tools:layout="@layout/bottom3fragment"/>
+</navigation>
